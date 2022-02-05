@@ -1,6 +1,9 @@
 # Poisoning Attacks on Fair Machine Learning
+Minh-Hao Van, Wei Du, Xintao Wu, and Aidong Lu
+The paper: https://arxiv.org/abs/2110.08932
 
-This code replicates the experiments from the paper "Poisoning Attacks on Fair Machine Learning" accepted in DASFAA 2022
+This code replicates the experiments from the paper "Poisoning Attacks on Fair Machine Learning" accepted to DASFAA 2022.
+
 
 ## Dependencies
 In this project, we use Python 3.7.9 and dependencies on win-64 system.
@@ -72,3 +75,6 @@ Note: To implement and get the baselines for this paper, some parts of our code 
  - [Stronger Data Poisoning Attacks Break Data Sanitization Defenses](https://github.com/kohpangwei/data-poisoning-journal-release)
  - [On Adversarial Bias and the Robustness of Fair Machine Learning](https://github.com/privacytrustlab/adversarial_bias)
  - [Fairlearn](https://github.com/fairlearn/fairlearn)
+
+## Acknowledgement
+This work was supported in part by NSF grants 1564250, 1937010 and 1946391.
