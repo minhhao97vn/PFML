@@ -1,6 +1,6 @@
 # Poisoning Attacks on Fair Machine Learning
 
-This code replicates the experiments from the paper "Poisoning Attacks on Fair Machine Learning" submitted to AAAI-22
+This code replicates the experiments from the paper "Poisoning Attacks on Fair Machine Learning" accepted in DASFAA 2022
 
 ## Dependencies
 In this project, we use Python 3.7.9 and dependencies on win-64 system.
