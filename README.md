@@ -1,7 +1,7 @@
 # Poisoning Attacks on Fair Machine Learning
 Minh-Hao Van, Wei Du, Xintao Wu, and Aidong Lu.
 
-The paper: https://arxiv.org/abs/2110.08932
+The paper: https://link.springer.com/content/pdf/10.1007/978-3-031-00123-9_30.pdf
 
 This code replicates the experiments from the paper "Poisoning Attacks on Fair Machine Learning" accepted to DASFAA-2022
 
